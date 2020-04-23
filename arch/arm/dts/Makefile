@@ -135,7 +135,8 @@ dtb-$(CONFIG_ROCKCHIP_RK3399) += \
 
 dtb-$(CONFIG_ROCKCHIP_RV1108) += \
 	rv1108-elgin-r1.dtb \
-	rv1108-evb.dtb
+	rv1108-evb.dtb	\
+	rv1108-evb-mini.dtb
 
 dtb-$(CONFIG_ARCH_MESON) += \
 	meson-gxbb-nanopi-k2.dtb \

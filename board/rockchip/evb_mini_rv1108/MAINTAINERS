@@ -1,0 +1,6 @@
+EVB-MINI-RV1108
+M:      Otavio Salvador <otavio@ossystems.com.br>
+S:      Maintained
+F:      board/rockchip/evb_mini_rv1108
+F:      include/configs/evb_mini_rv1108.h
+F:      configs/evb-mini-rv1108_defconfig
